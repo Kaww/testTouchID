@@ -27,7 +27,7 @@ class ViewController: UIViewController {
                     if wasSuccessfull {
                         self.accessLabel.text = "🔓"
                     } else {
-                        self.accessLabel.text = "Authentication Error !"
+                        self.accessLabel.text = "Error !"
                     }
                 }
             }
