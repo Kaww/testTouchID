@@ -1,3 +1,3 @@
 # testTouchID
 
-A simple iOS app using touchID to unlock a padlock
+A simple iOS app showing how to use touchID
